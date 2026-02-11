@@ -1,6 +1,6 @@
 # BenAI92 — Channel Archive
 
-Complete metadata + transcripts scraped via the YouTube Innertube API (no official key) on 2026-02-11 04:53 UTC.
+Complete metadata + transcripts scraped via the YouTube Innertube API (no official key) on 2026-02-11 04:55 UTC.
 
 Total videos scraped: 69
 
@@ -8,7 +8,7 @@ Total videos scraped: 69
 |---|-------|-----------|----------|-------|------------|------|
 | 01 | [Turn Transcripts into n8n Workflows INSTANTLY (Claude Code)](videos/001-0T6q4v8Rb_s.md) | 1 day ago | 15:06 | 5,095 views | ⚠️ | [watch](https://www.youtube.com/watch?v=0T6q4v8Rb_s) |
 | 02 | [How I'd Make Money with AI in 2026 (Top 3 AI Offers)](videos/002-XYHqQOX4ivs.md) | 6 days ago | 16:40 | 9,192 views | ⚠️ | [watch](https://www.youtube.com/watch?v=XYHqQOX4ivs) |
-| 03 | [How to Use Claude Cowork Better Than 99% of People (Full Guide)](videos/003-HTu1OGWAn5w.md) | 10 days ago | 21:07 | 98,283 views | ⚠️ | [watch](https://www.youtube.com/watch?v=HTu1OGWAn5w) |
+| 03 | [How to Use Claude Cowork Better Than 99% of People (Full Guide)](videos/003-HTu1OGWAn5w.md) | 10 days ago | 21:07 | 98,327 views | ⚠️ | [watch](https://www.youtube.com/watch?v=HTu1OGWAn5w) |
 | 04 | [The "Unpopular" AI Business Model That Wins in 2026](videos/004-CO8EU32b-Y0.md) | 2 weeks ago | 13:55 | 13,323 views | ⚠️ | [watch](https://www.youtube.com/watch?v=CO8EU32b-Y0) |
 | 05 | [How we Automated Meta Ads with 3 AI Systems](videos/005-JDjxeB-UEoc.md) | 4 weeks ago | 11:49 | 3,687 views | ⚠️ | [watch](https://www.youtube.com/watch?v=JDjxeB-UEoc) |
 | 06 | [Build Your First AI Business in 2026 I 5 Hour Beginner Course](videos/006-_CttoOfvh1I.md) | 1 month ago | 4:54:23 | 12,975 views | ⚠️ | [watch](https://www.youtube.com/watch?v=_CttoOfvh1I) |
@@ -45,7 +45,7 @@ Total videos scraped: 69
 | 37 | [This AI Agent Automates Your Sales on ALL Social Media (+MCP)](videos/037-VnbfsX7iBl4.md) | 10 months ago | 44:09 | 39,535 views | ⚠️ | [watch](https://www.youtube.com/watch?v=VnbfsX7iBl4) |
 | 38 | [How We Automated SEO for 50+ Businesses With AI](videos/038-TpaU6i-odJI.md) | 10 months ago | 46:45 | 33,368 views | ⚠️ | [watch](https://www.youtube.com/watch?v=TpaU6i-odJI) |
 | 39 | [How do Sales in our 100k+/Mo AI Agency (Complete Guide)](videos/039-hXr0iL8tJGY.md) | 10 months ago | 49:46 | 16,874 views | ⚠️ | [watch](https://www.youtube.com/watch?v=hXr0iL8tJGY) |
-| 40 | [The Only Video You'll Need to Master Make.com & AI Workflows (Beginner to Pro)](videos/040-Ij0dRKiO_Hw.md) | 10 months ago | 3:14:11 | 106,483 views | ⚠️ | [watch](https://www.youtube.com/watch?v=Ij0dRKiO_Hw) |
+| 40 | [The Only Video You'll Need to Master Make.com & AI Workflows (Beginner to Pro)](videos/040-Ij0dRKiO_Hw.md) | 10 months ago | 3:14:11 | 106,488 views | ⚠️ | [watch](https://www.youtube.com/watch?v=Ij0dRKiO_Hw) |
 | 41 | [How to Start an AI Business in 2025 \| Full Beginner Blueprint](videos/041-eFnmaPTVFpM.md) | 10 months ago | 1:27:35 | 51,429 views | ⚠️ | [watch](https://www.youtube.com/watch?v=eFnmaPTVFpM) |
 | 42 | [Lovable Co-Founder Builds an AI SaaS in 10 Min](videos/042-lJX8VkZg-Vw.md) | 11 months ago | 25:53 | 15,124 views | ⚠️ | [watch](https://www.youtube.com/watch?v=lJX8VkZg-Vw) |
 | 43 | [How We Plan & Scope AI Projects in our 100k+/Mo AI Agency](videos/043-bkDGgjafCrs.md) | 11 months ago | 34:36 | 28,328 views | ⚠️ | [watch](https://www.youtube.com/watch?v=bkDGgjafCrs) |
